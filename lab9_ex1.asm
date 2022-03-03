@@ -33,7 +33,7 @@ halt
 
 push_val .FILL x3400
 add_val .FILL x3800
-STACK_ADDR .FILL xFE00
+STACK_ADDR .FILL xA001
 .end
 
 
